@@ -1,20 +1,24 @@
-mirayatech/README.md
-Hey there! 
-I’m Thierry, a design engineer based in Rwanda.
+# Hey there 👋  
+I'm Thierry — a design engineer based in Rwanda.
 
-I design and build whatever I can imagine.
+I design and build whatever I can imagine.  
+If an idea hits me, I’m probably already prototyping it.
 
-If an idea pops into my head, chances are I’ll build it and ship it.
+### 🛠️ Tech Stack
+- **Frontend:** React, TypeScript, Tailwind CSS, Framer Motion  
+- **Tools:** Figma, VS Code, Notes, Affinity
 
-My main tech stack is react, typescript, tailwind, and framer motion. My favorite tools are figma, vscode, notes, and affinity.
+### 🚀 What I’m Building
+I’ve shipped 100+ public repositories (and… yeah, more than 200 private ones).  
+My favorite project so far is **APPGRADE**, a platform for UI lovers, builders, and theme explorers.
 
-I’ve got a bunch of pinned projects, but my favorite is the APPGRADE.
+### 🎯 What I Do
+- Build interfaces  
+- Create products  
+- Experiment with ideas  
+- Ship fast and often  
 
-I’ve built over 100 public repos, but privately.. it’s probably more than 200 at this point.
-
-
-Fun Facts:
-I have two cats
-I don’t like coffee or tea
-Demon Slayer is my favorite anime
-Hobbies: anime, gym, building things
+### 🌱 Fun Facts
+- i mid in gaming 
+- Demon Slayer is my favorite anime  
+- Hobbies: anime, gym, building things
