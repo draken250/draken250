@@ -19,6 +19,6 @@ My favorite project so far is **APPGRADE**, a platform for UI lovers, builders, 
 - Ship fast and often  
 
 ### 🌱 Fun Facts
-- i mid in gaming 
+- i 'mid in gaming 
 - Demon Slayer is my favorite anime  
 - Hobbies: anime, gym, building things
